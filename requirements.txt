@@ -3,5 +3,3 @@ pandas
 bokeh
 matplotlib
 astropy
-os
-sys
