@@ -1,5 +1,4 @@
 requests
-urllib
 pandas
 bokeh
 matplotlib
